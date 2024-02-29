@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-### Hello, I'm Chaewon Kwak. 
+## Hello, I'm Chaewon Kwak. 
 
-#### I'm interested in cybersecurity and I love exploring new technologies.
+### I'm interested in cybersecurity and I love exploring new technologies.
 
 <span>
   <a>
@@ -55,16 +55,16 @@
 </center>
 
 
-#### 📚 Publications
+### 📚 Publications
 
-##### Research Topic: Cybersecurity, Secure Cloud Computing, Applied Cryptography, Oblivious RAM
+#### Research Topic: Cybersecurity, Secure Cloud Computing, Applied Cryptography, Oblivious RAM
 
 * [Revisiting Secure Multi-Server ORAMs (ICOIN'24)](https://icoin.org/media?key=site/icoin2024/abs/A-6-2.pdf)
 
 * [Shedding Light on Blind Spot of Backward Privacy in Dynamic Searchable Symmetric Encryption (Access'24)](https://www.researchgate.net/publication/376677759_Shedding_Light_on_Blind_Spot_of_Backward_Privacy_in_Dynamic_Searchable_Symmetric_Encryption)
 
 
-#### 🎖 Projects
+### 🎖 Projects
 
 * [An digital envelope simultation kit (in Java)](https://github.com/chaewonkwak/DEST)
 
@@ -73,7 +73,7 @@
 <!--- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=chaewonkwak&theme=dracula&show_icons=true) --->
 
 
-## Contact Me
+### Contact Me
 
 [🎫LinkedIn](https://www.linkedin.com/in/chaewon-kwak-71714b239/)
 [💌Email](mailto:chaewonkwak0905@gmail.com)
