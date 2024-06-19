@@ -66,7 +66,7 @@
 
 ### 🎖 Projects
 
-* [An digital envelope simultation kit (in Java)](https://github.com/chaewonkwak/DEST)
+* [A digital envelope simultation kit (in Java)](https://github.com/chaewonkwak/DEST)
 
 * [OpenAI(zeroshot CLIP model) utilization (in Python)](https://github.com/chaewonkwak/KBRA)
 
